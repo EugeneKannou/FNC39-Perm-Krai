@@ -9,7 +9,6 @@ source "vmware-vmx" "cml2" {
   skip_compaction  = true
   vmx_data = {
     "uuid.bios"     = "56 4d a2 ef 1b 52 51 7b-6f 70 dd d0 2b fe 35 95"
-    "uuid.location" = "56 4d a2 ef 1b 52 51 7b-6f 70 dd d0 2b fe 35 95"
     "uuid.action"   = "keep"
   }
   format          = "ova"
